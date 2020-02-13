@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.19.1](https://www.github.com/googleapis/java-gameservices/compare/v0.19.0...v0.19.1) (2020-02-13)
+
+
+### Documentation
+
+* **regen:** update sample code to set total timeout, add API client header test ([5e6527e](https://www.github.com/googleapis/java-gameservices/commit/5e6527e276775896087917f61776ffcf09878ded))
+
 ## [0.19.0](https://www.github.com/googleapis/java-gameservices/compare/v0.18.1...v0.19.0) (2020-02-04)
 
 
